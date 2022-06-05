@@ -1,0 +1,35 @@
+.Homepage{
+    background-color: rgb(109, 173, 237);
+    height:1000px;
+}
+
+@keyframes movingTopToBottom {
+    0% {
+      top: -15px;
+    }
+    95% {
+      top: 150px;
+    }
+    100% {
+      top: 165px;
+    }
+  }
+  .container {
+    height: 150px;
+    overflow: hidden;
+  }
+  #divTAReviews {
+    animation: movingTopToBottom 5s linear infinite;
+    position: relative;
+    background: lightblue;
+    display: inline-block;
+    padding: 10px;
+  }
+
+  .compname{
+    color: white;
+  }
+
+  .para{
+    color: white;
+  }

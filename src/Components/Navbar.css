@@ -1,0 +1,38 @@
+.navbar{
+    padding: 10px;
+    display: flex;
+    background-color: rgb(107, 244, 244);
+    background-image: linear-gradient(rgb(107, 244, 244), rgb(109, 173, 237));
+    margin-left: auto;
+    width: 100%;
+  }
+  
+  .navitem{
+    padding: 10px;
+  }
+  
+  .navlink{
+    text-decoration: none;
+    color: black;
+    display: flex;
+    align-items: right;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+
+  .civispic{
+      width: 110px;
+  }
+  
+  
+  .navitems{
+    display: flex;
+    margin-left: auto;
+  }
+
+  .navlink{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+  }
+
+  

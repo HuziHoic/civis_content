@@ -1,0 +1,50 @@
+  
+{
+    "data": [
+      {
+        "question": "Which ministry issued Draft Central Motor Vehicles (...Amendment) Rules ?",
+        "choices": ["Ministry of Road Transport and Highways", "Osijek", "Zagreb", "Rijeka"],
+        "answer": "Ministry of Road Transport and Highways"
+      },
+      {
+        "question": "The Draft Central Motor Vehicles Act was issued in 2019. True or False?",
+        "choices": ["False", "True"],
+        "answer": "False"
+      },
+      {
+        "question": "Draft Central Motor Vehicles Rules, 2021 was issued to amend which rule?",
+        "choices": ["Graz", "Salzburg", "Innsbruck", "Central Motor Vehicles Rule, 1989."],
+        "answer": "Central Motor Vehicles Rule, 1989."
+      },
+      {
+        "question": "Is a trade certificate compulsory if a manufacturer or a dealer has a vehicle?",
+        "choices": ["False", "True"],
+        "answer": "True"
+      },
+      {
+        "question": "The authority should verify the application and will provide a trade certificate within how many days?",
+        "choices": ["Mostar", "15", "Banja Luka", "Tuzla"],
+        "answer": "15"
+      },
+      {
+        "question": "It is not the responsibility of the authority to provide a written reply incase the application is rejected?",
+        "choices": ["False", "True"],
+        "answer": "False"
+      },
+      {
+        "question": "In case of any change in the address of the business owner, the authority should be informed immediately about it?",
+        "choices": ["False", "True"],
+        "answer": "True"
+      },
+      {
+        "question": "___ trade registration marks can be obtained online after 7 days of applying.",
+        "choices": ["Bucharest", "Craiova", "Constanta", "Additional"],
+        "answer": "Additional"
+      },
+      {
+        "question": "The authority in no case, cancel the trade certificate. True/False?",
+        "choices": ["False", "True"],
+        "answer": "False"
+      }
+    ]
+  }

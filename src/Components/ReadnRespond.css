@@ -1,0 +1,60 @@
+
+
+
+
+
+.policy{
+    background-color: #d7dee4;
+}
+
+.policyHeader{
+    color: aliceblue;
+    background-color: #0c3551;
+
+}
+.policyGoal{
+    color: 	#0c3551;
+    font-weight: bold;
+}
+.nitiaayoglogo{
+    background-color: white;
+    border-radius: 6px;
+}
+.nitiaayog{
+    color: 	#ffa500;
+}
+
+.descriptionHeader{
+    background-color: 	#d7dee4;
+}
+
+.descriptionBody{
+    background-color: #0c3551;
+    color: aliceblue;
+}
+
+.response{
+    background-color: 	#073763;
+}
+
+.responseHeader{
+    color: #d7dee4;
+}
+
+.line{
+    border: 5px white;
+}
+
+.responseCard{
+    background-color: #a0c8e3;
+    
+}
+
+.text-response{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+}
+
+.text-name{
+    font: bold;
+}

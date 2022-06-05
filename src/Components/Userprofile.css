@@ -1,0 +1,158 @@
+.UserPage {
+    background: linear-gradient(
+        rgba(255, 255, 255, 0.7),
+        rgba(255, 255, 255, 0.3)
+      ),
+      url("https://assets.hongkiat.com/uploads/beautiful-minimalist-desktop-wallpapers/4k/preview/01.jpg?3");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .userdetails {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  h2{
+    font-size: 50px;
+    text-align: center;
+  }
+  
+  .wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .badgename{
+    margin: 10px;
+    z-index: 999;
+    background-color: white;
+    text-align: center;
+    font-size: large;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+  }
+  
+  .card-img-top {
+    width: 300px;
+    height:300px;
+  }
+  
+  .details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 170px;
+    width: 400px;
+    padding-right: 50px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: white;
+  }
+  
+  .headings {
+    font-size: 15px;
+    font-weight: bolder;
+    color: black;
+  }
+  
+  li {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .useravatar {
+    width: 330px;
+    margin-right: 70px;
+    margin-left: 70px;
+  }
+  
+  .description {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+  }
+  
+  .userRewards {
+    display:flex;
+    justify-content: center;
+    margin-top: 50px;
+    height: 310px;
+    width: 400px;
+    padding-right: 50px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: white;
+  }
+  
+  .userRewards {
+    display: flex;
+  }
+
+  .social-container {
+      display: flex;
+      justify-content: space-between;
+  }
+  
+  .points {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 40px;
+    padding-right: 40px;
+    font-size: larger;
+    height: 130px;
+    width: 400px;
+  }
+  
+  .point {
+    display: flex;
+    text-align: center;
+    padding-left: 50px;
+  }
+  
+  .image {
+    width: 130px;
+  }
+  
+  .badges {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .rewardCard:hover {
+    transform: scale(1.02);
+  }
+  
+  .rewardCard {
+    box-shadow: 2px 2px gray;
+  }
+  
+  .bg {
+    background-image: url("https://assets.hongkiat.com/uploads/beautiful-minimalist-desktop-wallpapers/4k/preview/01.jpg?3");
+  }
+
+  
+  .social-container {
+    background: #eee;
+    padding: 25px 50px;
+  }
+
+  a.social {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+  }
+  
+  a.facebook {
+    color: #4968ad;
+  }
+  
+  a.twitter {
+    color: #49a1eb;
+  }
+  
+  a.instagram {
+    color: black;
+  }
+  
+  

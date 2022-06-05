@@ -1,0 +1,49 @@
+{
+    "data": [
+      {
+        "question": "Under which article was the Finance Commission of India established?",
+        "choices": ["Split", "Article 280", "Zagreb", "Rijeka"],
+        "answer": "Article 280"
+      },
+      {
+        "question": "Citizenship (Amendment) Bill, 2019 will amend ___. ",
+        "choices": ["Citizenship Act, 1955", "Ljubljana", "Maribor", "Koper"],
+        "answer": "Citizenship Act, 1955"
+      },
+      {
+        "question": "Articles 301 to __ deal with freedom of trade, commerce and intercourse within the territory of India subject to certain limitations.",
+        "choices": ["Graz", "Salzburg", "307", "Vienna"],
+        "answer": "307"
+      },
+      {
+        "question": "Which State is the first to enact a law on contract farming?",
+        "choices": ["Tamil Nadu", "Novi Sad", "Niš", "Subotica"],
+        "answer": "Tamil Nadu"
+      },
+      {
+        "question": "A citizen can directly move the Supreme Court for any violation of Fundamental Rights under Article___.",
+        "choices": ["Mostar", "32", "Banja Luka", "Tuzla"],
+        "answer": "32"
+      },
+      {
+        "question": "Article 17 is related with Abolition of _?",
+        "choices": ["Zalaegerszeg", "Eger", "Untouchability", "Budapest"],
+        "answer": "Untouchability"
+      },
+      {
+        "question": "When Right to Information Act came into force in India?",
+        "choices": ["12th October 2005", "Nitra", "Bratislava", "Poprad"],
+        "answer": "12th October 2005"
+      },
+      {
+        "question": "Which Act is associated with Courts can interpret the rules and regulations.?",
+        "choices": ["Bucharest", "Charter Act of 1793", "Constanta", "Braila"],
+        "answer": "Charter Act of 1793"
+      },
+      {
+        "question": " Under which Act, the councils were having a power to discuss the budget and addressing questions to the executive?",
+        "choices": ["Government of India Act, 1892", "Munich", "Berlin", "Frankfurt"],
+        "answer": "Government of India Act, 1892"
+      }
+    ]
+  }

@@ -1,0 +1,10 @@
+.container{
+    margin:auto;
+    padding:50px;
+}
+
+.bg{
+    background-image:url("https://assets.hongkiat.com/uploads/beautiful-minimalist-desktop-wallpapers/4k/preview/01.jpg?3");
+    background-size: cover;
+}
+

@@ -1,0 +1,49 @@
+{
+    "data": [
+      {
+        "question": "India plans to _ high greenhouse gas emissions in the transport and energy sector.",
+        "choices": ["Split", "decarbonise", "Zagreb", "Rijeka"],
+        "answer": "decarbonise"
+      },
+      {
+        "question": "Who has published the Battery Swapping Policy ?",
+        "choices": ["Celje", "Ljubljana", "Niti Aayog", "Koper"],
+        "answer": "Niti Aayog"
+      },
+      {
+        "question": "The three key advantages of using Electric Vehicles with Battery Swapping policy are: time, cost effectiveness and ___.",
+        "choices": ["space", "Salzburg", "Innsbruck", "Vienna"],
+        "answer": "space"
+      },
+      {
+        "question": "Battery Swapping is exchanging discharged batteries for charged ones with no flexibility to charge them separately. True/False.",
+        "choices": ["False", "True"],
+        "answer": "False"
+      },
+      {
+        "question": "Further registration of swappable batteries ensures its certification and ___.",
+        "choices": ["Mostar", "credibility", "Banja Luka", "Tuzla"],
+        "answer": "credibility"
+      },
+      {
+        "question": "Bureau of Energy Efficiency is responsible for rollout of __ charging infrastructure?",
+        "choices": ["Zalaegerszeg", "", "Battery", "EV"],
+        "answer": "EV"
+      },
+      {
+        "question": "Reuse and Recyle of swappable batteries is the core of the policy. True/False.",
+        "choices": ["False", "True"],
+        "answer": "True"
+      },
+      {
+        "question": "Multiple portal shall be set up for enabling users to undertake all the procedures.True/False.",
+        "choices": ["False", "True"],
+        "answer": "False"
+      },
+      {
+        "question": "India aims to achieve net zero emissions by ___",
+        "choices": ["2060", "2070", "2040", "2050"],
+        "answer": "2070"
+      }
+    ]
+  }
